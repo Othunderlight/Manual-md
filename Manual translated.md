@@ -1,5 +1,3 @@
----
-
 **(Page 1: Cover Page)**
 
 **[Image: Insert the image of the RISH OPTIMA VAF device from page 1 of the original English PDF here.]**
